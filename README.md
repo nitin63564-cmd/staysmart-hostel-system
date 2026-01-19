@@ -1,5 +1,7 @@
 # StaySmart – Smart Hostel Room Allocation System
 
+SIMPLE PROJECT ON HOTEL ROOM ALLOCATION
+
 ## 📌 Project Overview
 
 StaySmart is a web-based Smart Hostel Room Allocation System developed using
