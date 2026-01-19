@@ -56,3 +56,8 @@ To design and deploy a working application that:
 ---
 
 ## 📁 Project Structure
+
+-index.html → Main UI structure
+-style.css → Styling and dark mode
+-script.js → Logic and room allocation algorithm
+-README.md → Project documentation
