@@ -1,0 +1,1 @@
+# staysmart-hostel-system
